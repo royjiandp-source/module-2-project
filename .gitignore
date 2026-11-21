@@ -1,10 +1,3 @@
-# --- Secrets ---
-.env
-*.key.json
-*service-account*.json
-*-sa.json
-keys/
-credentials/
 
 # --- Data (download locally, see data/README.md) ---
 data/*
