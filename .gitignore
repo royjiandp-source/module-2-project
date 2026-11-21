@@ -1,11 +1,6 @@
 
-# --- Data (download locally, see data/README.md) ---
-data/*
-!data/README.md
-archive/
 
 # --- Python ---
-__pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .venv/
@@ -29,8 +24,6 @@ orchestration/storage/
 orchestration/logs/
 
 # --- OS / editors ---
-.DS_Store
-Thumbs.db
 desktop.ini
 .vscode/
 .idea/
